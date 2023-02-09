@@ -17,15 +17,12 @@ Forecasting financial statements of companies using machine learning methods wit
 
 ### Technologies
 * Python
-* Pandas, jupyter, numpy, sklearn
+* Pandas, jupyter, numpy, sklearn, lightautoml, fedot
 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
-## Needs of this project
-
-- 
+This project is an attempt to predict the financial statements of companies using the maximum number of different models and finding out the best of them. At the moment, the following models have been tested: naive, average, linear model, linear model with data on the price of currency and oil, random forest model, lightautoml, fedot.
+The main problem of prediction in this case is a strong data limitation - several dozen measurements for the company.
 
 
 ## Contact
