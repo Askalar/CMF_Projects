@@ -22,7 +22,7 @@ Forecasting financial statements of companies using machine learning methods wit
 
 ## Project Description
 This project is an attempt to predict the financial statements of companies using the maximum number of different models and finding out the best of them. At the moment, the following models have been tested: naive, average, linear model, linear model with data on the price of currency and oil, random forest model, lightautoml, fedot.
-The main problem of prediction in this case is a strong data limitation - several dozen measurements for the company.
+The main problem of prediction in this case is a strong data limitation - several dozen measurements for a company.
 
 
 ## Contact
