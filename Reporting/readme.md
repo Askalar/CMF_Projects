@@ -3,7 +3,7 @@
 # Reporting forecasting
 
 
-#### -- Project Status: Active
+#### Project Status: paused
 
 ## Project Intro/Objective
 Forecasting financial statements of companies using machine learning methods with applications in risk management and asset management. 
